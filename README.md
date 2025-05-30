@@ -24,14 +24,13 @@ Kullmann et al. (2004) explains the design and performance of the G-clamp system
 
 Wheeler et al. (2004) shows how the method can be used to implement patterns of virtual synaptic activity and assess the synaptic gain that arises from anatomical convergence of excitatory synapses.
 
-```
-John P. Horn, Ph.D.
-Professor, Department of Neurobiology
-University of Pittsburgh School of Medicine
+---
+John P. Horn, Ph.D.  
+Professor, Department of Neurobiology  
+University of Pittsburgh School of Medicine  
 Pittsburgh, PA 15261
 
 Voice: 412-648-9429  Fax: 412-648-1441
-```
 
 ---
 
