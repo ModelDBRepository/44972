@@ -1,7 +1,7 @@
 ### Note: there is a [download page](http://hornlab.neurobio.pitt.edu/downloads.htm)
 at [John Horn's lab](http://hornlab.neurobio.pitt.edu/) at the University of Pittsburgh, and below
 that a note that Dr Horn sent recently to the connectionists mailing list.
-The model (matlab program neurosim), a dynamical clamp program, papers, and documentation are all available there.
+The model (matlab program neurosim), a dynamical clamp program, papers, and documentation are all available there.  
 20180626: the neurosim v2_1 and G-clamp v2_1_1 are expanded in the below folder to let modeldb index them.
 
 ---
